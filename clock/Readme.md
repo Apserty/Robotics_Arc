@@ -2,15 +2,15 @@
 
 
 
-LCD Pin		Arduino Nano Pin 		Note
+LCD Pin	  	Arduino Nano Pin 	    	Note
 
-GND		GND				Ground reference
+GND	        	GND				        Ground reference
 
-VCC			5V					Power (5V)
+VCC			      5V					          Power (5V)
 
-SDA 		A4					Dedicated I2C Data line
+SDA 		      A4					    Dedicated I2C Data line
 
-SCL			A5					Dedicated I2C Clock line
+SCL			      A5					        Dedicated I2C Cloick lne
 
 
 
