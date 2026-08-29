@@ -12,3 +12,5 @@ This repository documents my progression from the basics of robotics to building
 * **Simulation & Middleware:** ROS 2 / Gazebo, Webots
 * **Programming Languages:** C++, Python
 * **Core Concepts:** Forward/Inverse Kinematics, Sensor Fusion (IMU, Ultrasonic, LiDAR), PID Control, State Machines
+
+## Check out the branches for individual projects !! Have Fun
